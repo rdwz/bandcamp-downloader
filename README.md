@@ -1,4 +1,7 @@
 # bandcamp-downloader
+
+[![Code style: black](https://flat.badgen.net/badge/code%20style/Black/000)](https://black.readthedocs.io/)
+
 Download your Bandcamp collection using this python script.
 
 It requires you to have a browser with a logged in session of bandcamp open. Cookies from the browser will be used to authenticate with Bandcamp.
